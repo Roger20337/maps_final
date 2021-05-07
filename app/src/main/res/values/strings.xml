@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">mapas_final</string>
+    <string name="title_activity_dublin_map">Map</string>
+    <string name="title_activity_lyon_map">Map</string>
+    <string name="dublin">Dublin</string>
+    <string name="lyon">Lyon</string>
+</resources>
